@@ -1,0 +1,221 @@
+h1{
+	text-decoration-style:solid;
+	text-align: center;
+}
+@media(min-width:992px){  
+
+*{
+	box-sizing: border-box;
+	margin-left: 0;
+	padding-left: 0;
+	margin-right:0;
+}
+
+.bit{
+	margin-top: 10%;
+
+}
+
+#one{
+background-color: gray;
+margin:10px;
+width:31%;
+padding:20px;
+border: 1px solid black;
+float: right;
+padding-top:0;
+
+}
+#chik{
+background-color: pink;
+font-size: 25px;
+width:50%;
+border:1px solid black;
+text-align: center;
+float:right;
+margin-right: -6%;
+
+
+}
+
+#two{
+background-color: gray;
+margin:10px;
+width:31%;
+padding:20px;
+border: 1px solid black;
+float:right;
+padding-top:0;
+}
+#beef{
+background-color: red;
+font-size: 25px;
+width:50%;
+border:1px solid black;
+color:white;
+text-align: center;
+float:right;
+margin-right: -6%;
+
+}
+#three{
+background-color: gray;
+margin:10px;
+width:31%;
+padding:20px;
+border: 1px solid black;
+float: right;
+padding-top:0;
+}
+#sush{
+background-color: yellow;
+font-size: 25px;
+width:50%;
+border:1px solid black;
+text-align: center;
+float: right;
+margin-right: -6%;
+}
+}
+@media(min-width:768px) and (max-width: 991px){  
+*{
+	box-sizing: border-box;
+}
+
+.bit{
+	margin-top: 10%;
+
+}
+#one{
+background-color: gray;
+margin:10px;
+width:100%;
+padding:20px;
+border: 1px solid black;
+float: right;
+padding-top:0;
+}
+#chik{
+background-color: pink;
+font-size: 25px;
+width:33%;
+border:1px solid black;
+text-align: center;
+float:right;
+margin-right: -3%;
+
+}
+
+#two{
+background-color: gray;
+margin-right: 10%;
+width:46%;
+padding:20px;
+border: 1px solid black;
+padding-top:0;
+}
+#beef{
+background-color: red;
+font-size: 25px;
+width:30%;
+border:1px solid black;
+color:white;
+text-align: center;
+float:right;
+margin-right: -7%;
+}
+#three{
+background-color: gray;
+margin-left:50%;
+margin-right: 10%;
+width:46%;
+padding:20px;
+border: 1px solid black;
+position: absolute;
+padding-top:0;
+}
+#sush{
+background-color: yellow;
+font-size: 25px;
+width:30%;
+border:1px solid black;
+text-align: center;
+float: right;
+margin-right: -7%;
+}
+}
+
+@media(min-width:320px) and (max-width: 767px){ 
+	*{
+	box-sizing: border-box;
+}
+
+.bit{
+	margin-top: 10%;
+
+}
+#one{
+background-color: gray;
+margin-right: 10%;
+margin-bottom:10%;
+width:100%;
+padding:20px;
+border: 1px solid black;
+float: top;
+padding-top:0;
+}
+#chik{
+background-color: pink;
+font-size: 25px;
+width:50%;
+border:1px solid black;
+text-align: center;
+float:right;
+margin-right:-6%;
+
+}
+
+#two{
+background-color: gray;
+margin-right: 10%;
+margin-bottom:10%;
+width:100%;
+padding:20px;
+border: 1px solid black;
+float:bottom;
+padding-top:0;
+}
+#beef{
+background-color: red;
+font-size: 25px;
+width:50%;
+border:1px solid black;
+color:white;
+text-align: center;
+float:right;
+margin-right: -6%;
+
+}
+#three{
+background-color: gray;
+margin-right: 10%;
+margin-bottom:10%;
+width:100%;
+padding:20px;
+border: 1px solid black;
+float: center;
+padding-top:0;
+}
+#sush{
+background-color: yellow;
+font-size: 25px;
+width:50%;
+border:1px solid black;
+text-align: center;
+float: right;
+margin-right: -6%;
+}
+}
+
+
+
