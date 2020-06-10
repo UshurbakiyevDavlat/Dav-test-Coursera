@@ -37,4 +37,15 @@ margin-bottom: 3%;
   clear: both;
   margin-top: -30px;
 }
-
+div h3{
+	text-align: center;
+}
+#sushi article{
+	margin-left: 10%;
+}
+ #beef  article{
+	margin-left: 10%;
+}
+#chik article{
+	margin-left: 10%;
+}
